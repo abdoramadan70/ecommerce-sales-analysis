@@ -28,3 +28,6 @@ The Tableau dashboard includes:
 * Sales by Product
 * Top 5 Customers
 * Sales by Customer Segment
+
+## Tableau Dashboard
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/E-commerceSalesAnalysis_17901093838730/E-commerceSalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
